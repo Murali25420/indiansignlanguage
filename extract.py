@@ -12,7 +12,7 @@ def getListOfFiles(dirName):
                 allFiles.append(fullPath)
                 
     return allFiles
-    return FileExistsError
+    
 dirname = '/home/aniket/Downloads/giphy.com' #Your Full Path of Projects Folder
 dest="/home/aniket/Desktop/Projects/gif_extract/gif_data/"
 
