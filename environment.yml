@@ -8,5 +8,4 @@ dependencies:
   - scikit-learn
   - jupyter
   - pip
-  - pip:
     - some-python-package   # Replace with actual required Python packages if any
