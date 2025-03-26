@@ -9,5 +9,4 @@ dependencies:
   - jupyter
   - pip
   - pip:
-    - purebasic
-    - some-python-package
+    - some-python-package   # Replace with actual required Python packages if any
