@@ -1,0 +1,13 @@
+name: indiansignlanguage
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - scikit-learn
+  - jupyter
+  - pip
+  - pip:
+    - purebasic
+    - some-python-package
